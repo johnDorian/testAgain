@@ -14,6 +14,11 @@ github:
   repo: testAgain
 ---
 
+<style>
+ .title-slide {
+     background-image: url(http://goo.gl/cF6W2);
+   }
+   </style>
 ## Read-And-Delete
 
 1. Edit YAML front matter
