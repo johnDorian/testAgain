@@ -20,7 +20,7 @@ github:
 2. Write using R Markdown
 3. Use an empty line followed by three dashes to separate slides!
 
---- bg:url(assets/img/WL002765.png)  
+--- bg:url(https://raw.githubusercontent.com/johnDorian/testAgain/gh-pages/assets/img/WL002765.png)  
 
 ## Slide 2
 
