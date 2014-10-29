@@ -14,21 +14,18 @@ github:
   repo: testAgain
 ---
 
-<style>
- .title-slide {
-     background-image: url(http://goo.gl/cF6W2);
-   }
-   </style>
 ## Read-And-Delete
 
 1. Edit YAML front matter
 2. Write using R Markdown
 3. Use an empty line followed by three dashes to separate slides!
 
---- .class #id 
+--- bg:url(assets/images/WL002765.png)  
 
 ## Slide 2
 
+--- bg:#404040
+## Another slide
 
 
 

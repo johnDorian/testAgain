@@ -48,3 +48,7 @@
   -moz-user-select: none;
   user-select: none;
 }
+
+.title-slide {
+     background-image: url(http://goo.gl/cF6W2);
+   }
